@@ -14,3 +14,7 @@ d[len]='\0';
 
 return d;
 }
+
+/**
+远程edit
+**/R
